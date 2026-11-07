@@ -21,4 +21,4 @@ https://www.saucedemo.com/
 - Invalid Login
 
 ## Author
-Tannu
+Tannu Giri
