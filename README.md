@@ -16,9 +16,12 @@ Web Application Automation Testing
 https://www.saucedemo.com/
 
 ## Test Coverage
-- Login Testing
+
 - Valid Login
 - Invalid Login
+- Empty Username and Password
+- Empty Password
+- Locked Out User Login
 
 ## Author
 Tannu Giri
